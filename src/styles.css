@@ -1,0 +1,40 @@
+body {
+    background-image: url("sudoku-fondo4.jpeg");
+    display: block;
+    margin: auto;
+}
+
+#titulo {
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    margin: 3px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+
+#h1 {
+    text-align: center;
+    margin: 40px;
+}
+
+#Tabla {
+    text-align: center;
+}
+
+#bordeTabla {
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    margin: 10px 20px 30px 500px;
+    margin-top: 10px;
+}
+
+#cargar {
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    margin: 20px;
+    margin-top: -20px;
+}
